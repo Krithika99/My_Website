@@ -1,0 +1,220 @@
+body{
+  background: url(Images/pink-bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+#my_name{
+  font-size: 50px;
+  font-family: 'Limelight', cursive;
+  text-align: center;
+  color: black;
+  margin-top: 30px;
+}
+
+.intro{
+  color: #f3f3f3;
+}
+.display-1{
+  float: right;
+}
+.con{
+margin: 0 auto 0 auto;
+}
+.coni{
+  margin: 0 auto 0 auto;
+}
+
+.my-pic{
+  float: left;
+  width:200px;
+  height: 200px;
+  text-align: center;
+  border-radius: 25%;
+  margin-right: auto;
+}
+
+.interest{
+  text-align: center;
+  color: black;
+  font-size: 30px;
+font-family: 'Roboto', sans-serif;
+}
+
+.skill{
+  font-family: 'Odibee Sans', cursive;;
+  font-size: 50px;
+  text-align: center;
+}
+
+.java{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.java1{
+  text-align: center;
+}
+.web1{
+  text-align: center;
+}
+
+.skills{
+  font-size: 30px;
+  line-height: 2;
+float: right;
+}
+
+
+.hs{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+
+}
+
+.html-and-css{
+  font-size: 30px;
+  line-height: 2;
+float: right;
+}
+
+
+.con1{
+padding: 50px;
+}
+
+.con2{
+  padding: 50px;
+}
+
+
+.about{
+  font-size: 80px;
+  font-family: 'Odibee Sans', cursive;
+
+}
+.abb{
+  float: left;
+  margin: 0 auto 0 auto;
+  text-align: center;
+
+}
+
+.ab{
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  float: right;
+  position: relative;
+  right:300px;
+}
+
+.j2{
+  text-align: center;
+}
+.abba{
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+
+
+.X{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Odibee Sans', cursive;
+}
+
+.Rot{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Odibee Sans', cursive;
+}
+
+.ten{
+  border-style: groove;
+  border-color: black;
+  border-width: thin;
+}
+
+.intern{
+  padding: 30px;
+  border-style: groove;
+  border-color: black;
+  border-width: thin;
+}
+
+.gap{
+  padding: 20px;
+}
+.intern-border{
+  padding: 20px;
+}
+
+
+
+
+
+.cm{
+  font-size: 80px;
+  font-family: 'Odibee Sans', cursive;
+text-align: end;
+}
+
+.cmimg{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+
+
+
+.Email{
+  font-family: 'Odibee Sans', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+.email-id{
+  font-family: 'Odibee Sans', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+.email-pic{
+  text-align: center;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  opacity:75%;
+}
+.con-con{
+  text-align: center;
+}
+
+
+
+.phone{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.ph{
+  font-family: 'Odibee Sans', cursive;
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.ph-no{
+  font-family: 'Odibee Sans', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.ima-row{
+  padding: 30px;
+  margin: 0 auto 0 auto;
+}
